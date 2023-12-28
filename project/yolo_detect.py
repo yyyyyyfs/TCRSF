@@ -5,7 +5,7 @@ import time
 import os
 import torch
 import numpy as np
-from Project.camera import LoadStreams, LoadImages
+from code.camera import LoadStreams, LoadImages
 import sys
 from utils.torch_utils import select_device
 from models.experimental import attempt_load

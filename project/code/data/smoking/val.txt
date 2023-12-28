@@ -1,0 +1,6 @@
+/home/yfs/TCRSF/project/code/data/smoking/images/6721.jpg
+/home/yfs/TCRSF/project/code/data/smoking/images/6785.jpg
+/home/yfs/TCRSF/project/code/data/smoking/images/6736.jpg
+/home/yfs/TCRSF/project/code/data/smoking/images/dr1.jpg
+/home/yfs/TCRSF/project/code/data/smoking/images/ph30.jpg
+/home/yfs/TCRSF/project/code/data/smoking/images/ph14.jpg
